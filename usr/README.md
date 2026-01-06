@@ -1,16 +1,19 @@
-# couldai_user_app
+# Safety App
 
-A new Flutter project.
+This project helps us keep the worksite safe. It tracks hazards and daily checks.
+
+## How to use
+
+1.  **Open the app.**
+2.  **Check your list.**
+3.  **Report problems.**
+
+If you see something unsafe, report it. Don't wait.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you are new to the code:
+-   [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+-   [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Stay safe out there.
